@@ -1,0 +1,1 @@
+<h1>this mail is send by this - {{$data123}}</h1>
